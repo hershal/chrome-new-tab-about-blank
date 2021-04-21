@@ -6,3 +6,7 @@ Available on the [Chrome Web Store](https://chrome.google.com/webstore/detail/bl
 
 ![A blank new tab](/screenshots/basic.png)
 
+
+Also supports Dark Mode.
+![A blank new tab, in dark mode](/screenshots/basic-dark.png)
+
